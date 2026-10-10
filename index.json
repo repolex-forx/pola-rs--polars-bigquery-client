@@ -1,0 +1,11 @@
+{
+  "org": "pola-rs",
+  "repo": "polars-bigquery-client",
+  "versions": [
+    {
+      "commit": "89c737ea682d494841c0cc0d2cfc5d9429d65b2a",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:43:08.069220+00:00"
+    }
+  ]
+}
