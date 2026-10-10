@@ -1,0 +1,7 @@
+[2026-10-10T04:41:05Z] === AST ITERATION 1 START | repo=pola-rs/polars-bigquery-client sha=89c737ea ===
+[2026-10-10T04:41:05Z] [iter=1] PHASE START: ast repo=pola-rs/polars-bigquery-client sha=89c737ea
+[2026-10-10T04:41:05Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T04:41:48Z] [iter=1] AST chunks built count=1 triples=509230
+[2026-10-10T04:41:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/89c737ea682d494841c0cc0d2cfc5d9429d65b2a/.complete
+[2026-10-10T04:41:48Z] [iter=1] PHASE END: ast elapsed_s=43 elapsed_min=0.7
+[2026-10-10T04:41:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

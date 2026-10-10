@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pola-rs/polars-bigquery-client/commit/89c737ea682d494841c0cc0d2cfc5d9429d65b2a",
       "git:hexsha": "89c737ea682d494841c0cc0d2cfc5d9429d65b2a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pola-rs/polars-bigquery-client/commit/ef97491898fad41f9cbeb38f4e743b86843c4dc0",
